@@ -1,0 +1,155 @@
+.box{ 
+   background-color:#130424;
+   display: flex;
+   position: fixed;
+   top: 0;
+   width: 100%;
+   margin: 0;
+   height: 70px;
+   
+}
+.box a{
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 23px;
+    letter-spacing: 2;
+    
+   
+}
+
+.box img{
+    width: 118px;
+    height: 24px;
+    margin-top:26px ;
+    margin-left: 28px;
+}
+body{
+    margin: 0;
+}
+.navigation{
+    display: flex;
+    margin-left: 150;
+    color: white;
+   font-size: 20px;
+   letter-spacing: 1;
+    
+}
+.box2{
+    margin: 0;
+    width: 100%;
+
+    
+}
+.box2 img{
+    width: 100%;
+}
+.box3 {
+    background-color:black;
+    width: 50%;
+    height: 170%;
+    margin: 0;
+}
+ .box3 img{
+    width: 200px;
+    height: 450px;
+    margin-left:200px ;
+    margin-top:300px ;
+    
+} 
+.box4{
+    margin-left: 60%;
+    margin-top: -65%;
+    letter-spacing: 1;
+    font-size: x-large;
+    font-family:merivaregular;
+    font-weight:200;
+}
+.box3 h1{
+    
+    color: white;
+    margin-left:114px ;
+    margin-top:-250px ;
+    font-size: 50px;
+    height: 176px;
+    width: 379px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: "EksellDisplayWeb-Small";
+}
+.box3 h2{
+   
+    color: white;
+    margin-left:114px ;
+    margin-top:-150px ;
+    font-size: 50px;
+    height: 176px;
+    width: 379px;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 800;
+    font-family: "EksellDisplayWeb-Small";
+}
+.box5 img
+{
+    width: 100%;
+    margin: 0;
+}
+.navigation a{
+    cursor: pointer;
+    
+}
+.box a:hover{
+color: red;
+}
+.foot1{
+    font-family: "merivaregular";
+    font-size: 18px;
+    line-height: 1.2;
+    color: #0a0b27;
+    font-size: medium;
+    margin-left: 5%;
+    margin-top: 4%;
+    
+}
+.foot2{
+    font-family: "merivaregular";
+    font-size: 18px;
+    line-height: 1.2;
+    color: #0a0b27;
+    font-size: medium;
+    margin-left: 37%;
+    margin-top: -12%;
+    
+}
+.foot3{
+    font-family: "merivaregular";
+    font-size: 18px;
+    line-height: 1.2;
+    color: #0a0b27;
+    font-size: medium;
+    margin-left: 37%;
+    margin-top: 0%;
+    font-weight: bold;
+    cursor: pointer;
+}
+.foot4{
+    font-family: "merivaregular";
+    font-size: 18px;
+    line-height: 1.2;
+    color: #0a0b27;
+    font-size: medium;
+    margin-left: 70%;
+    margin-top: -15%;
+}
+.foot3 a:hover{
+    color: red;
+    text-decoration: underline;
+
+}
+.footpic {
+    margin-left:867px;
+    margin-top: 0;
+    width: 0;
+}
